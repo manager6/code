@@ -1,5 +1,5 @@
 import java.util.Random;
-
+// 打乱数组
 public class day_01 {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};
