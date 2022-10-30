@@ -1,3 +1,5 @@
+package Study;
+
 public class day_02 {
     //方法
     public static void main(String[] args) {

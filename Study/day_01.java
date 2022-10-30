@@ -1,3 +1,5 @@
+package Study;
+
 import java.util.Random;
 // 打乱数组
 public class day_01 {
@@ -13,7 +15,6 @@ public class day_01 {
         for (int i = 0; i < arr.length; i++) {
             System.out.printf(arr[i] + " ");
         }
-
-
     }
+
 }

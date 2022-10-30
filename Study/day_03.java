@@ -1,3 +1,5 @@
+package Study;
+
 public class day_03 {
     public static void main(String[] args) {
         double mianji1=gitmianji(4.1,2.2);
